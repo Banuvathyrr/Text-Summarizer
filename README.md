@@ -1,8 +1,11 @@
-# Text-Summarizer
-### Automated PDF Document Summarization Using LangChain and OpenAI
+
+<h1 align="center"> Automated PDF Document Summarization Using LangChain and OpenAI</h1>
 
 **Project Overview:**  
 Developed a web-based application using Streamlit, LangChain, and OpenAI's language model to automate the summarization of content across multiple PDF documents. This tool leverages advanced natural language processing techniques to efficiently extract key information from large volumes of text, making it ideal for professionals who need to digest large reports or documents quickly.
+
+![image](https://github.com/user-attachments/assets/5f2ba44e-2488-449d-b23d-5d61b59288f4)
+
 
 **Key Features:**
 Multi-Document Summarization: Supports summarization of multiple PDF files simultaneously, combining the content into a cohesive summary.  
