@@ -27,4 +27,5 @@ Accurate Summarization: Fine-tuned the summarization process to balance detail w
 **Outcome:**   
 Successfully developed and deployed an application that automates the summarization of multiple PDF documents, significantly reducing the time required to analyze large text-based reports.  
 
-
+**Demo link:**   
+https://drive.google.com/file/d/1KzA0ZsLfSVzQddmIIYxbo1tf2bUUhSgN/view?usp=drive_link
